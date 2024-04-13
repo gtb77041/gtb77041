@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I previously worked as a hearse driver for a funeral home.**
 
-<h1 align="left">Primary Interests</h1>
+<h3 align="left">Primary Interests</h3>
 
 We are at an inflection point in the adoption of cloud computing. Sure, cloud computing gives small organization access to mainframe-class computational power without the costs of acquiring hardware. But the costs of running compute intensive tasks on cloud resources can mount quickly. Instead, I propose that organizations run parallelization friendly tasks on clusters of CPUs and GPUs they already own. As multiprocessing and concurrent computing libraries mature, the administrative costs of cluster computing falls to a point at which it may be more economic for organizations to run "embarrassingly parallel" work in-house. 
 

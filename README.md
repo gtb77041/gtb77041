@@ -20,7 +20,7 @@
 
 We are at an inflection point in the adoption of cloud computing. Sure, cloud computing gives small organization access to mainframe-class computational power without the costs of acquiring hardware. But the costs of running compute intensive tasks on cloud resources can mount quickly. Instead, I propose that organizations run parallelization friendly tasks on clusters of CPUs and GPUs they already own. As multiprocessing and concurrent computing libraries mature, the administrative costs of cluster computing falls to a point at which it may be more economic for organizations to run "embarrassingly parallel" work in-house. 
 
-My current area of focus is distributing iterative tasks - training machine learning models, for example - across multiple commodity machines. Since ML training benefits enormously from GPUs, I devote special effort to teaming machines with NVIDIA GPUs. One challenge I'm coping with at the moment is Tensorflow's discontination of native support of GPUs on Windows. To work around this I am running my machine learning tasks under Windows Subsystem for Linux.
+My current area of focus is distributing iterative tasks - training machine learning models, for example - across multiple commodity machines. Since ML training benefits enormously from GPUs, I devote special effort to teaming machines with NVIDIA GPUs. One challenge I'm coping with at the moment is Tensorflow's discontinuation of native support of GPUs on Windows. To work around this I am running my machine learning tasks under Windows Subsystem for Linux.
 
 On this GitHub profile I use examples from a variety of fields to demonstrate distributing machine learning tasks in Python.
 

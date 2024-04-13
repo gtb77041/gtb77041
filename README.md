@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Garrick Byrne</h1>
+
 - 🔭 I’m currently working on **predicting electricity consumption using climate data.**
 
 - 🌱 I’m currently learning **Dask, TensorFlow, and neural networks.**
